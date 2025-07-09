@@ -1,5 +1,7 @@
 # 🎵 Ultrasonic Levitator - Acoustic Levitation System
 
+> **Important Note:** This repository contains the **basic prototype version** of the ultrasonic levitator. The **advanced version (Version 2.0)** with motorized conveyor belt and automated features was the actual award-winning model that earned the prizes mentioned below.
+
 [![State Level Winner](https://img.shields.io/badge/State%20Level-1st%20Prize-gold?style=for-the-badge&logo=trophy)](https://github.com)
 [![Zonal Level](https://img.shields.io/badge/Zonal%20Level-2nd%20Prize-silver?style=for-the-badge&logo=trophy)](https://github.com)
 [![Arduino](https://img.shields.io/badge/Arduino-Uno-teal?style=for-the-badge&logo=arduino)](https://arduino.cc)
@@ -17,19 +19,22 @@ This project showcases the fascinating physics of **acoustic levitation** - the 
 
 ---
 
+
 ## 📺 Demonstration Videos
 
 ### Main Demonstration
 
-https://github.com/Deratheone/ultrasonic_levitator/raw/main/videos/ultrasonic_levitator.mp4
+https://github.com/user-attachments/assets/bfa7103c-d972-48eb-bc00-6857710e4319
+
 
 *Watch the complete levitation system in action*
 
 ### Close-up View  
 
-https://github.com/Deratheone/ultrasonic_levitator/raw/main/videos/ultrasonic_levitator_closeup.mp4
 
-*Detailed view of particles being levitated*
+https://github.com/user-attachments/assets/d1f93d2c-8916-4dbd-a56f-fccd2c6d828a
+
+
 
 ### Local Video Files
 - [📹 Main Demo](./videos/ultrasonic_levitator.mp4) 
@@ -143,6 +148,10 @@ void loop() {
 
 ### Version 1.0 - Basic Prototype ✅
 **Status:** Completed and Demonstrated
+
+![Ultrasonic Levitator Prototype](./imge/ultrasonic_levitator_prototype.jpeg)
+
+*Basic prototype setup showing the ultrasonic levitation system*
 
 **Features:**
 - Dual transducer setup using salvaged HC-SR04 elements
